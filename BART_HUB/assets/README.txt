@@ -1,0 +1,1 @@
+Place sound files (pump.wav, pop.wav, cashout.wav) and icons in this directory.

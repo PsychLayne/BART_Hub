@@ -1,0 +1,9 @@
+balloon_num,num_pumps,exploded,money_earned,reaction_time,balloon_color,age,sex,session,subject_id
+1,28,True,0,,blue,24,M,1,1345
+2,19,True,0,,blue,24,M,1,1345
+3,16,True,0,,blue,24,M,1,1345
+4,12,True,0,,blue,24,M,1,1345
+5,38,True,0,,blue,24,M,1,1345
+6,10,False,50,,blue,24,M,1,1345
+7,6,False,30,,blue,24,M,1,1345
+8,3,True,0,,blue,24,M,1,1345
